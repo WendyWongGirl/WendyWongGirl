@@ -1,9 +1,12 @@
 ## 👋 Introduction
 
 
-![](https://img.shields.io/static/v1?label=wechat&message=Hey_IsWendy&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/WendyWongGirl)
+![](https://img.shields.io/static/v1?label=wechat&message=Hey_IsWendy&color=7BB32E&logo=wechat)
 
-Hi guys, I'm **Ying Wendy**. I am a Full-Stack Developer(backend heavy) from Wuhan, China.
+Hi guys, I'm **Wendy**. I am a Full-Stack Developer(backend heavy) from Wuhan, China.
+I have used to Java more than 8 years experience delivering enterprise solutions for multiple clients across numerous industries. I am an experienced back-end Developer with a passion for quality, consistency and reusability. And have about 2 years experiences on development team management experience.
+Not only core applications across the stack, but also the CICD pipelines and infrastructure to enable optimum quality, consistency and deployment efficiency. Ying had been a coach of Girls Coding Day in 2017. And also is a keen participant in technology forums, IBM Cloud Week, infoQ…. Also I pays attention to market changes and through continuous learning, hopes to provide better software delivery solutions.
+
 
 
 ## 💡 Skills
@@ -19,8 +22,8 @@ Hi guys, I'm **Ying Wendy**. I am a Full-Stack Developer(backend heavy) from Wuh
 
 ## 📫 Contact Me
 
-- ✉️ [Email](yingwang0822@sina.com) 
-- 📙 Check out my <a href="https://github.com/WendyWongGirl/resume/cv_YingWang_EN.pdf">resume
+- ✉️ Email：yingwang0822@sina.com 
+- 📙 GitHub WendyWongGirl<a href="https://github.com/WendyWongGirl/">
 
 
 ## 🧐 More About Me 
