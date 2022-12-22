@@ -20,7 +20,7 @@ Hi guys, I'm **Ying Wendy**. I am a Full-Stack Developer(backend heavy) from Wuh
 ## 📫 Contact Me
 
 - ✉️ [Email](yingwang0822@sina.com) 
-- 📙 Check out my <a href="https://github.com/WendyWongGirl/resume/cv_YingWang_CN.pdf">resume
+- 📙 Check out my <a href="https://github.com/WendyWongGirl/resume/cv_YingWang_EN.pdf">resume
 
 
 ## 🧐 More About Me 
