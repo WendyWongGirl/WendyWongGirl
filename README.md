@@ -9,7 +9,7 @@ I have used to Java more than 8 years experience delivering enterprise solutions
 
 And I have about 2 years experiences on development team management experience.</br>
 
-Not only core applications across the stack, but also the CICD pipelines and infrastructure to enable optimum quality, consistency and deployment efficiency. Also I pays attention to market changes and through continuous learning, hopes to provide better software delivery solutions.
+I am a optimist and easily adapt to different hats depending on what the project requires.
 
 
 
@@ -19,7 +19,7 @@ Not only core applications across the stack, but also the CICD pipelines and inf
 - [**Web**](https://github.com/WendyWongGirl): HTML, CSS, Ajax, JavaScript, jQuery, node.js, Vue+ElementUI+Axios, echarts, Volecity.
 - [**Databases**](https://github.com/WendyWongGirl): Oracle, MySQL5.6+, PostgreSQL, TimesTen, SQL Server, DM8.
 - [**Protocols**](https://github.com/WendyWongGirl): HTTP(s),TCP/IP, SOAP.
-- [**CI/CD related**](https://github.com/WendyWongGirl): Maven/Gradle, SVN, Git, Tomcat, Jboss, Jenkins.
+- [**CI/CD related**](https://github.com/WendyWongGirl): Maven/Gradle, SVN, Git, Tomcat, Jboss, Jenkins, Docker.
 - [**Operation and maintenance monitoring**](https://github.com/WendyWongGirl): Linux/Unix, F5, Nginx, Jmeter, SoapUI, Zabbix, WireShark.
 - [**Project business**](https://github.com/WendyWongGirl): Saas, ERP, Payment related.
 
@@ -31,6 +31,6 @@ Not only core applications across the stack, but also the CICD pipelines and inf
 
 ## 🧐 More About Me 
 
-- 🔭 Loved exploring new tech stack
+- 🔭 Loved exploring new tech stack.
 - 👯 Participated in public benefit activities, like Girls Coding Day, OSChina, infoQ...
 - 🌱 Intersted in Yoga, Hiking.
