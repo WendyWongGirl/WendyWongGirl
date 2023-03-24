@@ -12,7 +12,7 @@ And I have about 3 years experiences on development team management experience.<
 I am a optimist and easily adapt to different hats depending on what the project requires.
 
 ## 💡 Overview
-  ![图片](pic/aboutme.png)
+  ![aboutme](./pic/aboutme.png)
 
 
 ## 💡 Skills
