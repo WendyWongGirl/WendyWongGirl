@@ -5,12 +5,14 @@
 
 Hi guys, I'm **Wendy**. I am a Full-Stack Developer(backend heavy) from Wuhan, China.</br>
 
-I have used to Java more than 8 years experience delivering enterprise solutions for multiple clients across numerous industries. I am an experienced back-end Developer with a passion for quality, consistency and reusability. I can also use to Vue, ElementUI, Axios to finish some front-end requires, I prefer to use Axure to outline the pages before starting do the front end.</br>
+I have used to Java over 8 years experience delivering enterprise solutions for multiple clients across numerous industries. I am an experienced back-end Developer with a passion for quality, consistency and reusability. I can also use to Vue, ElementUI, Axios to finish some front-end requires, I prefer to use Axure to outline the pages before starting do the front end.</br>
 
-And I have about 2 years experiences on development team management experience.</br>
+And I have about 3 years experiences on development team management experience.</br>
 
 I am a optimist and easily adapt to different hats depending on what the project requires.
 
+## 💡 Overview
+  ![图片](/pic/aboutme.png)
 
 
 ## 💡 Skills
@@ -31,6 +33,6 @@ I am a optimist and easily adapt to different hats depending on what the project
 
 ## 🧐 More About Me 
 
-- 🔭 Loved exploring new tech stack.
+- 🔭 Loved exploring new tech stack.ig: opensource project and online documents.
 - 👯 Participated in public benefit activities, like Girls Coding Day, OSChina, infoQ...
-- 🌱 Intersted in Yoga, Hiking.
+- 🌱 Intersted in Yoga, Hiking...
